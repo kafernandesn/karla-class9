@@ -20,4 +20,6 @@ public class CallingMethodsInSameClass
 		printOne();
 		printOne();
 	}
+
+	// I want to add another method here
 }
